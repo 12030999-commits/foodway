@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/foodway/static/css/main.53442dce.css",
+    "main.js": "/foodway/static/js/main.5eed8d16.js",
+    "static/js/453.5665687a.chunk.js": "/foodway/static/js/453.5665687a.chunk.js",
+    "static/media/restaurantInterior.jpg": "/foodway/static/media/restaurantInterior.65ec70cc945506bfda12.jpg",
+    "static/media/pizza.jpg": "/foodway/static/media/pizza.1c7957e030e1db001a01.jpg",
+    "static/media/salad.jpg": "/foodway/static/media/salad.52ae6363261443b21649.jpg",
+    "static/media/team.jpg": "/foodway/static/media/team.776d2349e2c3f3d51f8f.jpg",
+    "static/media/burger.jpg": "/foodway/static/media/burger.04c4876bf64182faae77.jpg",
+    "static/media/cart-bg.jpg": "/foodway/static/media/cart-bg.3c497d4625db387ed241.jpg",
+    "static/media/pasta.jpg": "/foodway/static/media/pasta.46b2ea07b71253deeaf3.jpg",
+    "index.html": "/foodway/index.html",
+    "main.53442dce.css.map": "/foodway/static/css/main.53442dce.css.map",
+    "main.5eed8d16.js.map": "/foodway/static/js/main.5eed8d16.js.map",
+    "453.5665687a.chunk.js.map": "/foodway/static/js/453.5665687a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53442dce.css",
+    "static/js/main.5eed8d16.js"
+  ]
+}
